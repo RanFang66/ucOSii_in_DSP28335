@@ -26,11 +26,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>28335_RAM_lnk.cmd</name>
-			<type>1</type>
-			<location>C:/ti/c2000/C2000Ware_3_03_00_00/device_support/f2833x/common/cmd/28335_RAM_lnk.cmd</location>
-		</link>
-		<link>
 			<name>DSP2833x_ADC_cal.asm</name>
 			<type>1</type>
 			<location>C:/ti/c2000/C2000Ware_3_03_00_00/device_support/f2833x/common/source/DSP2833x_ADC_cal.asm</location>
@@ -84,6 +79,11 @@
 			<name>DSP2833x_usDelay.asm</name>
 			<type>1</type>
 			<location>C:/ti/c2000/C2000Ware_3_03_00_00/device_support/f2833x/common/source/DSP2833x_usDelay.asm</location>
+		</link>
+		<link>
+			<name>F28335.cmd</name>
+			<type>1</type>
+			<location>C:/ti/c2000/C2000Ware_3_03_00_00/device_support/f2833x/common/cmd/F28335.cmd</location>
 		</link>
 	</linkedResources>
 </projectDescription>

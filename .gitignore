@@ -2,3 +2,5 @@
 .launches
 Debug
 *.swp
+Debug/*.obj
+Debug/*/*/.obj
